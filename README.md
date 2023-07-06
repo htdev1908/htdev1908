@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @htdev1908
-- 👀 I’m interested in Application Programming
-- 🌱 I’m currently learning University Of Transport Technology 
-- 💞️ I’m looking to collaborate on Github
+- 👀 Im interested in Application Programming
+- 🌱 Im currently learning University Of Transport Technology 
+- 💞️ Im looking to collaborate on Github
 - 📫 Contact for work👉 
   1908nht@gmail.com or https://www.facebook.com/nguyenhuutuns1908
   
